@@ -2,7 +2,7 @@ const { Schema, model } = require("mongoose");
 
 const orderSchema = new Schema(
    {
-      userFullName: {
+      name: {
          type: String,
          required: true,
       },
@@ -27,9 +27,9 @@ const orderSchema = new Schema(
          type: Number,
          required: true,
       },
-      products: [
+      productsOrder: [
          {
-            nameProduct: {
+            name: {
                type: String,
                required: true,
             },
