@@ -8,3 +8,5 @@ Go to the MongoDB site and create a classter there.After creating a user. The de
 Open a terminal in the root folder of the server. You can also go there using the "cd server" command. Enter the command "npm i". After downloading the data, enter the command "npm start". The console should show "Server ok" and "Database connection successful"
 
 You can see the project's work here - https://fast-delivery-tau.vercel.app/
+
+Frontend by link https://github.com/nezalonov-serhii/fast-delivery_frontend
