@@ -9,7 +9,12 @@ mongoose
    .connect(DB_HOST)
    .then(() => {
       console.log("Database connection successful");
-      app.listen("3131");
+      app.listen(3131, (err) => {
+         if (err) {
+            return console.log(err);
+         }
+         console.log("Server ok");
+      });
    })
    .catch((error) => {
       console.log(error.message);
