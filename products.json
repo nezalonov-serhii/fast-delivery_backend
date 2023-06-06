@@ -1,0 +1,113 @@
+[
+   {
+      "category": "Hot",
+      "imageUrl": "https://i.postimg.cc/LX29pc3R/photo-2023-06-05-21-48-54.jpg",
+      "name": "Monster",
+      "price": 300,
+      "market": "king"
+   },
+   {
+      "category": "New",
+      "imageUrl": "https://i.postimg.cc/W4MNxNrX/photo-2023-06-06-01-38-49.jpg",
+      "name": "Big Burger XLL",
+      "price": 480,
+      "market": "king"
+   },
+   {
+      "category": "Discount",
+      "imageUrl": "https://i.postimg.cc/g09cMXwx/photo-2023-06-06-01-38-53.jpg",
+      "name": "Pinky",
+      "price": 300,
+      "market": "king",
+      "discount": 0.2
+   },
+   {
+      "category": "Hot",
+      "imageUrl": "https://i.postimg.cc/3R1KJttG/photo-2023-06-06-01-38-57.jpg",
+      "name": "Burger XL",
+      "price": 380,
+      "market": "king"
+   },
+   {
+      "category": "New",
+      "imageUrl": "https://i.postimg.cc/7hLqCSRW/photo-2023-06-06-01-39-01.jpg",
+      "name": "Double Burger XL",
+      "price": 700,
+      "market": "king",
+      "discount": 0.1
+   },
+   {
+      "category": "Hot",
+      "imageUrl": "https://i.postimg.cc/9M3dh5bL/photo-2023-06-06-02-14-16.jpg",
+      "name": "Small fries",
+      "price": 30,
+      "market": "fries"
+   },
+   {
+      "category": "New",
+      "imageUrl": "https://i.postimg.cc/jjnHmdHW/photo-2023-06-06-02-14-21.jpg",
+      "name": "Baked potatoes",
+      "price": 75,
+      "market": "fries"
+   },
+   {
+      "category": "Hot",
+      "imageUrl": "https://i.postimg.cc/VLzFvw8T/photo-2023-06-06-02-14-26.jpg",
+      "name": "Medium fries",
+      "price": 50,
+      "market": "fries"
+   },
+   {
+      "category": "Discount",
+      "imageUrl": "https://i.postimg.cc/sDK4ZLf2/photo-2023-06-06-02-14-34.jpg",
+      "name": "Large fries",
+      "price": 50,
+      "market": "fries",
+      "discount": 0.2
+   },
+   {
+      "category": "Discount",
+      "imageUrl": "https://i.postimg.cc/BvZzWFhh/photo-2023-06-06-02-28-42.jpg",
+      "name": "Vanilla milk",
+      "price": 46,
+      "market": "icecream",
+      "discount": 0.1
+   },
+   {
+      "category": "Hot",
+      "imageUrl": "https://i.postimg.cc/HLShTLRT/photo-2023-06-06-02-28-46.jpg",
+      "name": "Chocolate milk",
+      "price": 46,
+      "market": "icecream"
+   },
+   {
+      "category": "New",
+      "imageUrl": "https://i.postimg.cc/5NvT8bYm/photo-2023-06-06-02-28-49.jpg",
+      "name": "Bubblegum",
+      "price": 50,
+      "market": "icecream"
+   },
+   {
+      "category": "Hot",
+      "imageUrl": "https://i.postimg.cc/zGrMj6TY/photo-2023-06-06-02-28-59.jpg",
+      "name": "Chocolate BOOM",
+      "price": 85,
+      "market": "icecream"
+   },
+   {
+      "category": "Discount",
+      "imageUrl": "https://i.postimg.cc/zGrMj6TY/photo-2023-06-06-02-28-59.jpg",
+      "name": "Double vanilla mix",
+      "price": 70,
+      "market": "icecream",
+      "discount": 0.1
+   },
+   {
+      "category": "Discount",
+      "imageUrl": "https://i.postimg.cc/kgvHhsy6/photo-2023-06-06-02-29-14.jpg",
+      "name": "Cinnamon BOOM",
+      "price": 70,
+      "market": "icecream",
+      "discount": 0.2
+   }
+]
